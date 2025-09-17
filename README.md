@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,js,aws,postgresql,opencv,netlify,docker,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,js,aws,postgresql,opencv,netlify,docker,redis,anvil,airtable)](https://skillicons.dev)
 
 <!--
 **ckrickyh/ckrickyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
