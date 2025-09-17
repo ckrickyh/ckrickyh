@@ -2,6 +2,7 @@
 
 <!--
 **ckrickyh/ckrickyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 # Hi, I'm Ricky! 🌳💻
 
@@ -39,4 +40,4 @@ Feel free to explore my projects, especially those showing my journey from envir
 
 > “Every tree needs strong roots, and every developer needs a passion for growth.”
 
--->
+
