@@ -8,33 +8,24 @@
 
 Welcome to my GitHub!
 
-After over 10 years as a certified arborist, specializing in large-scale tree management and environmental data, I am excited to make a career transition into software development.
+After 10+ years as a certified arborist, I am pivoting my career to software development. My experience managing large tree inventories led me to build custom solutions using Python—handling GIS data, automating workflows, and creating interactive web maps for my team. I even developed automated WhatsApp reminders for field tasks.
 
-## My Journey
-
-- 🌲 As a certiied arborist, I developed advanced data management solutions for large areas, using Python for GIS analysis, automation, and interactive web mapping.
-- 📈 Built tools for my team, including automated WhatsApp reminders for field tasks, and web-based mapping dashboards to streamline work across thousands of trees.
-- 🏆 I work in tree managment field for a period of time, but also a passionate problem solver and builder, with a strong foundation in tech.
-
-## My Developer Path
-
-Recently, I completed an intensive bootcamp focused on backend development and cloud technologies:
+Recently, I completed a coding bootcamp focused on backend development and cloud technologies:
 - **Java Spring Boot**
 - **Docker & Redis**
-- **AWS Cloud Services**
-- **PostgreSQL Database**
+- **AWS**
+- **PostgreSQL**
 
-I am actively seeking opportunities as a backend developer (Java Spring Boot), where I can combine my real-world experience, innovative mindset, and technical skills to create impactful solutions.
+I also earned a free OpenCV Introduction Certificate, further expanding my skills in computer vision and image processing.
 
-## Why Hire Me?
+I'm now actively seeking developer roles, especially those using Java Spring Boot. My background gives me a unique perspective—I'm a problem solver with real-world experience building practical tools for teams.
 
-- I bring a unique perspective from years of hands-on field work and leadership.
-- I have proven experience building practical software for real teams and business needs.
-- I am deeply motivated to grow and thrive in the developer industry.
+Why consider me?
+- I’ve built software for real-world needs in demanding environments.
+- I’m passionate about learning and creating impactful solutions.
+- My journey from tree management to tech shows my adaptability and drive.
 
-## Let's Connect!
-
-Feel free to explore my projects, especially those showing my journey from environmental data management to full-stack software development. I am always eager to learn, collaborate, and contribute!
+Explore my projects to see how I merge field expertise with modern development. I’m excited to grow as a developer and contribute to innovative teams!
 
 ---
 
