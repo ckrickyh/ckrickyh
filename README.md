@@ -12,9 +12,9 @@ After over 10 years as a certified arborist, specializing in large-scale tree ma
 
 ## My Journey
 
-- 🌲 As a tree specialist, I developed advanced data management solutions for large areas, using Python for GIS analysis, automation, and interactive web mapping.
+- 🌲 As a certiied arborist, I developed advanced data management solutions for large areas, using Python for GIS analysis, automation, and interactive web mapping.
 - 📈 Built tools for my team, including automated WhatsApp reminders for field tasks, and web-based mapping dashboards to streamline work across thousands of trees.
-- 🏆 I am a certified arborist—but also a passionate problem solver and builder, with a strong foundation in tech.
+- 🏆 I work in tree managment field for a period of time, but also a passionate problem solver and builder, with a strong foundation in tech.
 
 ## My Developer Path
 
