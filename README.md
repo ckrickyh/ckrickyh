@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,js,aws,postgresql,opencv,netlify,docker,redis)](https://skillicons.dev)
 
 <!--
 **ckrickyh/ckrickyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,7 +23,7 @@ Recently, I completed an intensive bootcamp focused on backend development and c
 - **AWS Cloud Services**
 - **PostgreSQL Database**
 
-I am actively seeking opportunities as a backend developer (Java Spring Boot), where I can combine my real-world experience, innovative mindset, and technical skills to create impactful solutions.
+I am actively seeking opportunities as a developer (Java Spring Boot), where I can combine my real-world experience, innovative mindset, and technical skills to create impactful solutions.
 
 ## Why Hire Me?
 
