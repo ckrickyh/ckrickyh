@@ -23,7 +23,15 @@ Recently, I completed an intensive bootcamp focused on backend development and c
 - **AWS Cloud Services**
 - **PostgreSQL Database**
 
-I am actively seeking opportunities as a developer (Java Spring Boot), where I can combine my real-world experience, innovative mindset, and technical skills to create impactful solutions.
+I am actively seeking opportunities as a developer, where I can combine my real-world experience, innovative mindset, and technical skills to create impactful solutions.
+
+## Certifications
+
+- 🥇 Python Programming Certificate
+- 🥇 Java Spring Boot Bootcamp Graduate
+- 🥇 OpenCV Introduction Certificate
+
+[View My Certificates](https://github.com/ckrickyh/certificates)
 
 ## Why Hire Me?
 
@@ -36,7 +44,7 @@ I am actively seeking opportunities as a developer (Java Spring Boot), where I c
 - I’m passionate about continuous learning and creating impactful applications.
 - My journey—from tree management to tech—demonstrates adaptability, resilience, and drive.
 
-When I’m not coding or working with trees, you’ll often find me spending time with my cat. I believe that balance and curiosity make for a better developer and teammate!
+When I'm not working or coding, I often spend time with my cat. I believe that maintaining balance and a desire to learn make me a better developer and teammate!
 
 Explore my projects to see how I blend field expertise, technical skills, and a love of learning. I’m excited to contribute to innovative teams and grow as a developer.
 
