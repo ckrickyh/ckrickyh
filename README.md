@@ -29,7 +29,7 @@ I am actively seeking opportunities as a developer, where I can combine my real-
 
 - 🥇 Python Programming Certificate
 - 🥇 Java Spring Boot Bootcamp Graduate
-- 🥇 OpenCV Introduction Certificate
+- 🥇 OpenCV Introductory Certificate
 
 [View My Certificates](https://github.com/ckrickyh/certificates)
 
