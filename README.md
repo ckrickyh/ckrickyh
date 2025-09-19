@@ -7,13 +7,13 @@
 
 Welcome to my GitHub!
 
-After over 10 years as a certified arborist, specializing in large-scale tree management and environmental data, I am excited to make a career transition into software development.
+With over 10 years as a certified arborist specializing in large-scale tree management and environmental data, I am now transitioning into software development. My interest in programming stems from a desire to address real-world challenges through technology.
 
 ## My Journey
-
-- 🌲 As an arborist, I developed advanced data management solutions for large areas, using Python for GIS analysis, automation, and interactive web mapping.
+ 
+- 🌲 In my former role as an arborist, I created advanced data management solutions for extensive areas, using Python for GIS analysis, automation, and interactive web mapping.
 - 📈 Built tools for my team, including automated WhatsApp reminders for field tasks, and web-based mapping dashboards to streamline work across thousands of trees.
-- 🏆 I am a tree management professional and a passionate problem solver and builder, with a strong technical foundation.
+- 🏆 I am an experienced professional with a strong management background and a passion for problem-solving, supported by a solid technical foundation for delivering effective solutions.
 
 ## My Developer Path
 
