@@ -15,7 +15,7 @@ My programming journey began with a focus on developing applications that improv
 - Web Mapping Applications
 - Automated Notification Systems
   
-Through a 2.5-months immersive bootcamp, I learned Java and Spring Boot, culminating in a final project: a Stock Heatmap application.
+Through a 2.5-months with 500+ hours immersive bootcamp, I learned Java and Spring Boot, culminating in a final project: a Stock Heatmap application.
 
 Feel free to check out **my projects 🚀**: 
 ### ☕ **Java Project: [Stock Heatmap](https://github.com/ckrickyh/bootcamp-finialProject)**
