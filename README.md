@@ -58,9 +58,9 @@ I am actively seeking opportunities as a developer, where I can combine my real-
 
 ## Why Hire Me?
 
-- I bring a unique perspective from years of hands-on field work and leadership.
 - I have proven experience building practical software for real teams and business needs.
 - I am deeply motivated to grow and thrive in the developer industry.
+- I bring a unique perspective from years of hands-on field work and team-coordination.
 
 ## What Sets Me Apart?
 - I’ve developed practical tech solutions in demanding field environments.
