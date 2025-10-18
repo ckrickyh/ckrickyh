@@ -56,19 +56,8 @@ I am actively seeking opportunities as a developer, where I can combine my real-
 
 [View My Certificates](https://github.com/ckrickyh/certificates)
 
-## Why Hire Me?
-
-- I have proven experience building practical software for real teams and business needs.
-- I am deeply motivated to grow and thrive in the developer industry.
-- I bring a unique perspective from years of hands-on field work and team-coordination.
-
-## What Sets Me Apart?
-- I’ve developed practical tech solutions in demanding field environments.
-- I’m passionate about continuous learning and creating impactful applications.
-- My journey—from tree management to tech—demonstrates adaptability, resilience, and drive.
-
-Explore my projects to see how I blend field expertise, technical skills, and a love of learning. I’m excited to contribute to innovative teams and grow as a developer.
+Explore my projects to see solutions to real-world problems. Even small questions or issues can significantly improve the outcome of a task.
 
 ---
 
-> “Every tree needs strong roots, and every developer needs a passion for growth.”
+> "Everything needs strong roots, and every skill requires a passion for growth."
