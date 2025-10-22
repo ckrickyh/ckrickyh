@@ -49,7 +49,7 @@ Recently, I completed an intensive bootcamp focused on backend development and c
 I am actively seeking opportunities as a developer, where I can combine my real-world experience, innovative mindset, and technical skills to create impactful solutions.
 
 ## Certifications
-
+- 🥇 AWS Certified AI Practitioner
 - 🥇 Python Programming Certificate
 - 🥇 Java Spring Boot Bootcamp Graduate
 - 🥇 OpenCV Introductory Certificate
