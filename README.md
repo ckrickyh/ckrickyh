@@ -53,6 +53,7 @@ I am actively seeking opportunities as a developer, where I can combine my real-
 - 🥇 Python Programming Certificate
 - 🥇 Java Spring Boot Bootcamp Graduate
 - 🥇 OpenCV Introductory Certificate
+- 🥇 n8n Introductory Certificate & Offical n8n Lv1&2 badge 
 
 [View My Certificates](https://github.com/ckrickyh/certificates)
 
