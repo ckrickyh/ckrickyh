@@ -58,7 +58,3 @@ I am actively seeking opportunities as a developer, where I can combine my real-
 [View My Certificates](https://github.com/ckrickyh/certificates)
 
 Explore my projects to see solutions to real-world problems. Even small questions or issues can significantly improve the outcome of a task.
-
----
-
-> "Everything needs strong roots, and every skill requires a passion for growth."
